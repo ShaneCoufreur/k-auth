@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ShaneCoufreur/k-auth.svg?branch=master)](https://travis-ci.org/ShaneCoufreur/k-auth)
+
 ## k-auth (Easy Authentication and Authorization API) (Work in progress...)
 
 An authentication microservicee API. Uses JWT Tokens to handle signup, signin and other authentication related functionality.
